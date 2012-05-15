@@ -1,0 +1,18 @@
+{
+  "author": "Pule <fdelacruz@gmail.com>",
+  "name": "ngri",
+  "description": "The Angry remote clustering",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "bootstrap.js",
+  "dependencies": {
+    "yaml": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
